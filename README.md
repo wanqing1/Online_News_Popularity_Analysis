@@ -1,1 +1,2 @@
 # Online_News_Popularity_Analysis
+Nowadays, online platforms are becoming the key component of digital news sharing. Fortunately, we found a dataset on online news popularity that can, to some extent, support the exploration of patterns related to online news, such as the number of shares of articles and the positivity of articles. In this report, we are going to investigate if there is a change in these two parameters from 2013 to 2014.
